@@ -37,7 +37,7 @@ out/
 .vscode/
 
 ### properties ###
-.properties
+*.properties
 
 # Created by https://www.toptal.com/developers/gitignore/api/java,gradle,visualstudiocode,intellij
 # Edit at https://www.toptal.com/developers/gitignore?templates=java,gradle,visualstudiocode,intellij
